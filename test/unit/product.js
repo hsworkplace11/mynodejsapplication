@@ -1,5 +1,5 @@
 "use strict";
-
+import {supertest} from '../test_helper'
 var request = require('supertest');
 require('../../index');
 require('should');
