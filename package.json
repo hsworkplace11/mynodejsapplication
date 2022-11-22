@@ -6,11 +6,10 @@
   "scripts": {
     "test": "mocha",
     "coverage": "nyc npm run test"
-    
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anshulc55/mynodejsapplication.git"
+    "url": "git+https://github.com/hsworkplace11/mynodejsapplication.git"
   },
   "keywords": [
     "nodejs",
@@ -19,9 +18,9 @@
   "author": "anshulawscodepipeline",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anshulc55/mynodejsapplication/issues"
+    "url": "https://github.com/hsworkplace11/mynodejsapplication/issues"
   },
-  "homepage": "https://github.com/anshulc55/mynodejsapplication#readme",
+  "homepage": "https://github.com/hsworkplace11/mynodejsapplication#readme",
   "dependencies": {
     "hapi": "^13.3.0",
     "istanbul": "^0.4.5",
