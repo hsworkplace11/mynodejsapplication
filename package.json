@@ -4,7 +4,9 @@
   "description": "Node  JS Sample Project",
   "main": "index.js",
   "scripts": {
-    "test": "nyc cover _mocha test/**/*.js"
+    "test": "mocha",
+    "coverage": "nyc npm run test"
+    
   },
   "repository": {
     "type": "git",
